@@ -1,2 +1,3 @@
 # Projeto_StarBucks
-Página informativa sobre o StarBucks | Feito em HTML, CSS e JS
+Inspiração: https://www.youtube.com/watch?v=ik-njdH5Q5c&list=WL&index=6
+Ultimo: 33:47
