@@ -12,7 +12,7 @@
 }
 
 .trending-card img {
-    width: clamp(300px, 5vh, 600px);
+    width: clamp(300px, 50vh, 600px);
 }
 
 .trending-rate {
@@ -44,6 +44,13 @@
 }
 
 @media (min-width: 768px) {
+    #container {
+        background-image: url('../images/background-desktop.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
     #trending .trending-cards {
         display: flex;
         justify-content: center;
