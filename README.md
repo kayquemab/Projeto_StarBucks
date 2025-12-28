@@ -1,6 +1,6 @@
 # Projeto_StarBucks
 Inspiração: https://www.youtube.com/watch?v=ik-njdH5Q5c&list=WL&index=6
-Ultimo: 49:45
+Ultimo: 50:43
 
 # StarBucks - Larissa Kich
 Projeto desenvolvido e ministrado por Larissa Kich, para praticar **HTML, CSS e JavaScript** e conceitos.
