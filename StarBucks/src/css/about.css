@@ -56,27 +56,3 @@
     font-weight: 500;
 }
 
-@media (min-width: 1200px) {
-    #about {
-        margin: 4%;
-        justify-content: center;
-    }
-
-    .about-content {
-        flex-direction: row;
-        align-items: center;
-        gap: 48px;
-    }
-
-    .about-image {
-        order: 1;
-    }
-
-    .about-info:first-child {
-        order: 2;
-    }
-
-    .about-info:last-child {
-        order: 3;
-    }
-}
