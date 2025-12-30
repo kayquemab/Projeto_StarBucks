@@ -1,4 +1,4 @@
-# 📌 StarBucks - Larissa Kich
+# 📌 StarBucks — Larissa Kich
 
 Projeto web do Starbucks feito para treinar HTML/CSS e JavaScript e interatividade.
 
