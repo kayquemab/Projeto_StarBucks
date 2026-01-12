@@ -44,4 +44,3 @@ StarBucks
 ## 👤 Autor
 
 Criado por **Larissa Kich** | Desenvolvido por **Kayque Miqueias**
-
