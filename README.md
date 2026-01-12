@@ -37,7 +37,7 @@ StarBucks
 📌 Observações
 
 * Projeto feito para estudo e prática
-* Desenvolvido com HTML, CSS e JavaScript puro
+* Desenvolvido com HTML, CSS e JavaScript
 
 ---
 
